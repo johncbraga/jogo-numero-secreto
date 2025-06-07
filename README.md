@@ -1,4 +1,4 @@
 # Jogo do número secreto
-Meu primeiro jogo desenvolvido com a utilização do JavaScript.
+Meu primeiro jogo desenvolvido com a utilização do Java Script.
 
-O jogo está sendo utilizado como oportunidade para o aprendizado da utilização do Git e do GitHub.
+Estou publicando no GitHub com o objetivo de aprender a utilizar tal ferramenta.
